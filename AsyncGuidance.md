@@ -19,6 +19,8 @@
    - [ConcurrentDictionary.GetOrAdd](#concurrentdictionarygetoradd)
    - [Constructors](#constructors)
    - [WindowsIdentity.RunImpersonated](#windowsidentityrunimpersonated)
+ - Antipatterns
+   - ASYNC antipatterns and its resolutions https://markheath.net/post/async-antipatterns
  
 # Asynchronous Programming
 
